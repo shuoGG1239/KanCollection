@@ -6,4 +6,4 @@ DMM页游舰队收藏(kancore)的桌面移植,n久前开坑,至今还未补上..
 * 平台由CppQt5转为PyQt5.
 
 # 界面效果
-<a href="http://www.acfun.cn/v/ac4092289" rel="Video"><img src="https://raw.githubusercontent.com/shuoGG1239/KanCollection/master/kancore_cpp_ver/example_img/ac_kan.png" alt="Video"></a>
+<a href="http://www.acfun.cn/v/ac4092289" rel="Video"><img src="https://i.loli.net/2018/08/12/5b6fe9a0c232d.png" alt="Video"></a>
